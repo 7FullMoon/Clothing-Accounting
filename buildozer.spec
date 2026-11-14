@@ -32,6 +32,7 @@ android.archs = arm64-v8a, armeabi-v7a
 
 # استخدام SDL2 لتشغيل Kivy
 p4a.bootstrap = sdl2
+p4a.branch = develop
 
 # إعدادات Buildozer
 [buildozer]
