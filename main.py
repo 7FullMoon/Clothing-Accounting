@@ -31,14 +31,10 @@ except ImportError:
 
 
 APP_TITLE = "النظام المحاسبي لمحل الملابس"
-
 FONT_PATH = os.path.join(
     os.path.dirname(__file__),
-    "assets",
-    "fonts",
     "NotoSansArabic-Regular.ttf"
 )
-
 
 def arabic_font():
     if os.path.isfile(FONT_PATH):
