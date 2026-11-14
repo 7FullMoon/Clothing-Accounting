@@ -27,7 +27,7 @@ orientation = portrait
 fullscreen = 0
 
 # إعدادات Android
-android.minapi = 23
+android.minapi = 24
 android.archs = arm64-v8a, armeabi-v7a
 
 # استخدام SDL2 لتشغيل Kivy
